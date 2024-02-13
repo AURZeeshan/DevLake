@@ -1,0 +1,26 @@
+I am pleased to Inform you that we are Impressed with your expertise & your Initial meeting & I would like to send you the Tech test.
+
+Please complete the following simple API coding exercise, and provide us the code in a GitHub repository that you create on step 3:
+
+
+This example is using APIs from this open source product (https://devlake.apache.org/docs/Overview/References) and GitHub API:
+
+
+
+1. Write a script or code that programmatically can get json data by making an API call to get “blueprints” with ID of 3 based on the API docs on our test instance of DevLake here: http://54.236.25.78:4000/api/swagger/index.html
+
+
+
+2. Use the json data from previous step, extract only one of the GitLab repositories info and choose the “name” field for 1 repository
+
+
+
+3. Manually Create a free GitHub account (or if you already have a public GitHub account), and create a Git repo (https://docs.github.com/en/rest/issues/issues?apiVersion=2022-11-28#create-an-issue)
+
+
+
+4. Use the GitHub API documentation and write a script/code that can create a new “issue”, the name of the issue should include the GitLab repository name extracted from step 2
+
+
+
+We appreciate your prompt attention to this test, and we look forward to discussing your solution in our upcoming interview, If we consider you a perfect fit for this position.

@@ -1,0 +1,18 @@
+# Make API call to get blueprints with ID 3
+
+
+# Step 1: Parse the response as JSON and store the data
+
+
+# Step 2: Choose the first repository from the first blueprint as an example Print the repo name
+
+
+# Step 3: Store the GitHub API base URL and the endpoint for creating issues
+
+
+# Step 4: Define the data for the GitHub API request Use the repo name from step 2 as part of the issue title
+
+
+# Step 5: Make a POST request to the endpoint with the headers and the data
+
+# Step 6: Check if the response status code is 201 (Created)
