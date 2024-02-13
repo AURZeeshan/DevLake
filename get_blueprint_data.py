@@ -26,7 +26,7 @@ print("Repo name from step 2:")
 
 
 for name in blueprints_data["blueprints"]:
-    github_token = "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"  # Replace with your GitHub personal access token
+    github_token = ""  # Replace with your GitHub personal access token
     github_repo = "DevLake"  # Replace with your GitHub repository name
     issue_title = f"{name['name']}"  # Use the extracted repository name
 
