@@ -7,7 +7,7 @@ This example is using APIs from this open source product (https://devlake.apache
 
 
 
-1. Write a script or code that programmatically can get json data by making an API call to get “blueprints” with ID of 3 based on the API docs on our test instance of DevLake here: http://54.236.25.78:4000/api/swagger/index.html
+1. Write a script or code that programmatically can get json data by making an API call to get “blueprints” with ID of 3 based on the API docs on our test instance of DevLake here: http://343/api/swagger/index.html
 
 
 
